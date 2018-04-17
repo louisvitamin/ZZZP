@@ -19,7 +19,8 @@ ZhuanZhuanZhuanPan AKA ZZZP (转转转盘) is an Android application where you c
 ![result](preview/preview5.jpg)
 
 # Download
-You may find it on [腾讯应用宝](http://sj.qq.com/myapp/detail.htm?apkName=com.example.zhuanzhuanzhuanpan) and other Android app stores.
+Check [release](https://github.com/louisvitamin/ZZZP/releases)    
+You may also find it on [腾讯应用宝](http://sj.qq.com/myapp/detail.htm?apkName=com.example.zhuanzhuanzhuanpan) and other Android app stores. 
 
 # Todos
 Unfortunately, zzzp is only available on Android right now. We are working on the vesion for WeChat WeApp.
